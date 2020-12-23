@@ -6,7 +6,7 @@
 ![docker run](img/docker_run_it_sh.png)
 -  Stop you container and delete it *(check that there are no more containers running with `docker container ls -a`)*
 ![docker no container](img/docker_clean.png)
-- Run a new container using a volume to do changes without stopping the container and saving your changes. Connect to SSH so it stays running.
+- Run a new container using a volume to do changes without stopping the container and saving your changes. Connect to SSH so it stays running.  
 ![docker ssh](img/docker_install_nano.png)
 - Add two lines of code in each files locally (be creative!)
 ![docker nano](img/docker_nano.png)

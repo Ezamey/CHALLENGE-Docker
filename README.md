@@ -1,4 +1,4 @@
-"# CHALLENGE-Docker" 
+# CHALLENGE-Docker
 
 - Run a container and verify that it prints the ouput of your `model.py` file.
 ![docker run](img/docker_run.png)
